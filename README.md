@@ -1,4 +1,4 @@
-# PHP - Simple data - table system with CREATE, RETRIVE, EDIT & DELETE
+# PHP - Simple data - table system with CREATE, RETRIEVE, EDIT & DELETE
 
 ## Server side database for a smaller website!
 Using a SQL database for a small website is a waste of effort and speed.Here I have made a function set that can manage your data-tables in a easy and fast manner.
@@ -35,7 +35,7 @@ Syntax is just array like code<br/>
 //proceeding the task --- remember to keep all the settings set before this!<br/>
 `runsfs($table);`<br/><br/>
 <br/>
-//You dont have to worry about the **/binary** folder everything about that is taken care by the code.You just have to request/retrive the file then the code will return the image file as you had in the first place.<br/>**But it is not a good practice to play with binary/image/large files inside PHP.** It will slower the pages!So try to save file names in the tables instead of whole files.<br/><br/>
+//You dont have to worry about the **/binary** folder everything about that is taken care by the code.You just have to request/retrieve the file then the code will return the image file as you had in the first place.<br/>**But it is not a good practice to play with binary/image/large files inside PHP.** It will slower the pages!So try to save file names in the tables instead of whole files.<br/><br/>
 
 
 ### Adding multiple (3 in this example) records at once
